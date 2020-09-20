@@ -1,0 +1,14 @@
+.status-bar{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    opacity: 0.5;
+}
+
+.status-bar i{
+    font-size: 12px;
+}
+.status-bar .status-bar__battery-leverl{
+    margin-left: 10px;
+}
+
